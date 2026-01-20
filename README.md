@@ -28,3 +28,19 @@ O repositório segue uma organização de pastas profissional:
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/vitoria-fsdev/Backend-WikiFandom.git](https://github.com/vitoria-fsdev/Backend-WikiFandom.git)
+
+````markdown
+## ⚙️ Instalação e Uso
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/vitoria-fsdev/Backend-WikiFandom.git
+
+# 2. Instale as dependências
+npm install
+
+# 3. Configure o Ambiente (.env)
+# Adicione PORT e MONGO_URI
+
+# 4. Inicie o servidor
+npm start
